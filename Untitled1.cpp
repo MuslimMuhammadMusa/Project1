@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
 int main(){
-	cout<<"LAKA POI POI"<<endl;
+	for(int i=0;i<5;i++){
+	
+		cout<<"LAKA POI POI"<<endl;
+	}
 	return 0;
 }
